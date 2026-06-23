@@ -694,7 +694,7 @@ DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 ###
 
-# DDNS
+# NAS DDNS
 DOMAIN-KEYWORD,synology,DIRECT
 DOMAIN-KEYWORD,quickconnect,DIRECT
 DOMAIN-SUFFIX,checkip.dyndns.org,DIRECT
@@ -706,25 +706,25 @@ DOMAIN-SUFFIX,ip-api.com,DIRECT
 DOMAIN-SUFFIX,ipapi.co,DIRECT
 DOMAIN-SUFFIX,ip6.seeip.org,DIRECT
 DOMAIN-SUFFIX,members.3322.org,DIRECT
+# APP
+DOMAIN-SUFFIX,dingding.com,DIRECT
+DOMAIN-SUFFIX,wise.com,DIRECT
 
-# 在线IP段转CIDR地址：http://ip2cidr.com
+# PT
 DOMAIN-SUFFIX,soulvoice.club,DIRECT
-DOMAIN,pt.soulvoice.club,DIRECT
 DOMAIN-SUFFIX,carpt.net,DIRECT
-DOMAIN,tracker.carpt.net,DIRECT
 DOMAIN-SUFFIX,0ff.cc,DIRECT
-DOMAIN,tracker.0ff.cc,DIRECT
 DOMAIN-SUFFIX,btschool.club,DIRECT
-DOMAIN,pt.btschool.club,DIRECT
 DOMAIN-SUFFIX,okpt.net,DIRECT
 DOMAIN-SUFFIX,pttime.org,DIRECT
-DOMAIN-SUFFIX,dingding.com,DIRECT
 DOMAIN-SUFFIX,leaguehd.com,DIRECT
-DOMAIN,announce.leaguehd.com,DIRECT
 DOMAIN-SUFFIX,xingtan.one,DIRECT
 DOMAIN-SUFFIX,ptchdbits.co,DIRECT
 DOMAIN-SUFFIX,hdupt.com,DIRECT
 DOMAIN-SUFFIX,lemonhd.club,DIRECT
-DOMAIN-SUFFIX,wise.com,DIRECT
+
 DOMAIN-SUFFIX,hdvideo.top,DIRECT
-DOMAIN,www.popcorn.plus,Netflix
+DOMAIN-SUFFIX,www.pttime.fun,DIRECT
+DOMAIN-SUFFIX,torrent.ubuntu.com,DIRECT
+
+
